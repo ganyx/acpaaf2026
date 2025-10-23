@@ -25,12 +25,22 @@ You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to shar
 - Dr Morgen Li, The University of Sydney
 - Dr Zhongzheng Wang, QUT
 
-### Registration
-
 ### When and Where
 9-11 February 2026
 The University of Sydney, NSW 2006, Australia
 
+### Abstract Submission and Contact:
+Please submit your one-page abstract or any enquiries to acpaaf@groups.sydney.edu.au 
+
+Conference website: acpaaf2026.com.au
+
+
+### Registration
+
+### Accommondation
+TBA
+### Conference Program
+TBA
 
 ### Local Organising Committee
 - A/Prof Yixiang Gan
