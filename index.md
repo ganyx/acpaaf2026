@@ -1,15 +1,15 @@
 ---
 title: About Alembic
 feature_text: |
-  ## ACPAAF2026
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## 2nd Australasian Conference on Particle Approaches and Applications in Fluids (ACPAAF2026)
+
+
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+# excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to share latest developments and practical applications of particle-based approaches in various fields of science and engineering. Particle-based methods are becoming increasingly popular for studying fluid dynamics, showing a great promise in accurately simulating and measuring fluid flow in a wide range of applications, from microfluidics to macroscopic systems. Papers related to the numerical methods (such as LBM, SPH, and DEM etc.) and experimental approaches for studying fluid flow / fluid-particle systems are welcome.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
 
