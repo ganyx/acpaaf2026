@@ -5,7 +5,7 @@ feature_text: |
 
 
 feature_image: "https://picsum.photos/1300/400?image=989"
-# excerpt: "ACPAAF2026 information"
+# excerpt: "ACPAAF2026 Information"
 ---
 
 You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to share the latest developments and practical applications of particle-based approaches in various fields of science and engineering. Particle-based methods are becoming increasingly popular for studying fluid dynamics, showing a great promise in accurately simulating and measuring fluid flow in a wide range of applications, from microfluidics to macroscopic systems. 
