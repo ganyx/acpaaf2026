@@ -4,7 +4,7 @@ feature_text: |
   ## The 2nd Australasian Conference on Particle Approaches and Applications in Fluids (ACPAAF2026)
 
 
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/images/frontpage_head.png"
 # excerpt: "ACPAAF2026 Information"
 ---
 
@@ -32,7 +32,7 @@ The University of Sydney, NSW 2006, Australia
 ### Abstract Submission and Contact:
 Please submit your one-page abstract or any enquiries to acpaaf@groups.sydney.edu.au 
 
-Conference website: acpaaf2026.com.au
+Conference website: acpaaf.org
 
 
 ### Registration

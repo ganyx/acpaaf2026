@@ -136,7 +136,7 @@ navigation_header:
 
 navigation_footer:
 - title: ACPAAF 2026
-  url: https://acpaaf.org.au
+  url: https://acpaaf.org
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
