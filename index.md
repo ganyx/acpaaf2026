@@ -1,7 +1,7 @@
 ---
 title: About ACPAAF2026
 feature_text: |
-  ## The 2nd Australasian Conference on Particle Approaches and Applications in Fluids (ACPAAF2026)
+  # The 2nd Australasian Conference on Particle Approaches and Applications in Fluids (ACPAAF2026)
 
 
 feature_image: "/assets/images/frontpage_head.png"
@@ -18,6 +18,8 @@ You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to shar
 - Applications using particle-based methods
 
 ### Invited Speakers
+![](assets/images/InvitedSpeakers.png)
+
 - Prof Timm Krüger, University of Edinburgh
 - Prof Emilie Sauret, Queensland University of Technology (QUT)
 - Prof Ha H. Bui, Monash University
@@ -25,7 +27,6 @@ You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to shar
 - Dr Morgen Li, The University of Sydney
 - Dr Zhongzheng Wang, QUT
 
-![](assets/images/InvitedSpeakers.png)
 
 ### When and Where
 9-11 February 2026
@@ -34,15 +35,16 @@ The University of Sydney, NSW 2006, Australia
 
 
 ### Abstract Submission and Contact:
-Please submit your one-page abstract or any enquiries to acpaaf@groups.sydney.edu.au 
+Please submit your one-page abstract or any enquiries to abstract@acpaaf.org 
 
-Conference website: acpaaf.org
+Conference website: [acpaaf.org](https://acpaaf.org)
 
 
 ### Registration
 
 ### Accommondation
 TBA
+
 ### Conference Program
 TBA
 
