@@ -23,7 +23,7 @@ You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to shar
 - Prof Timm Krüger, University of Edinburgh
 - Prof Emilie Sauret, Queensland University of Technology (QUT)
 - Prof Ha H. Bui, Monash University
-- A/Prof Jing Lu, Tsinghua University, Shenzhen
+- A/Prof Lu Jing, Tsinghua University, Shenzhen
 - Dr Morgen Li, The University of Sydney
 - Dr Zhongzheng Wang, QUT
 
