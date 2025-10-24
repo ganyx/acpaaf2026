@@ -41,6 +41,7 @@ Updates will be available on our conference website: [acpaaf.org](https://acpaaf
 
 
 ### Registration
+
 | Type | Early Birds (Before 31/12/2) | Standard Rate (After 1/1/26) |
 | ------------- | ------------- | ------------- |
 | Non-AFMS member | A$350 | A$450 |
