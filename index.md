@@ -35,7 +35,7 @@ The University of Sydney, NSW 2006, Australia
 
 
 ### Abstract Submission:
-Please submit your one-page abstract or any enquiries to [abstract@acpaaf.org](mailtp:abstract@acpaaf.org) 
+Please submit your one-page abstract or any enquiries to [abstract@acpaaf.org](mailto:abstract@acpaaf.org) 
 
 Updates will be available on our conference website: [acpaaf.org](https://acpaaf.org)
 
