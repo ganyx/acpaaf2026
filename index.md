@@ -34,19 +34,24 @@ The University of Sydney, NSW 2006, Australia
 
 
 
-### Abstract Submission and Contact:
-Please submit your one-page abstract or any enquiries to abstract@acpaaf.org 
+### Abstract Submission:
+Please submit your one-page abstract or any enquiries to [abstract@acpaaf.org](mailtp:abstract@acpaaf.org) 
 
-Conference website: [acpaaf.org](https://acpaaf.org)
+Updates will be available on our conference website: [acpaaf.org](https://acpaaf.org)
 
 
 ### Registration
+| Type | Early Birds (Before 31/12/2) | Standard Rate (After 1/1/26) |
+| Non-AFMS member | A$350 | A$450 |
+| AFMS member | A$250 |  A$350 |
+| Student |  A$150 | A$250 |
+
+Online payment can be made [here](https://pay.sydney.edu.au/ACPAAF-2026).
 
 ### Accommondation
-TBA
 
 ### Conference Program
-TBA
+
 
 ### Local Organising Committee
 - A/Prof Yixiang Gan
@@ -55,3 +60,7 @@ TBA
 - Prof Chengwang Lei
 
 ![](assets/images/UniSydney.png)
+
+| ![](assets/images/USyd.png) |![](assets/images/AFMS.png) |
+
+Sponsored by the Australian Fluid Mechanics Society [AFMS](https://www.afms.org.au/).
