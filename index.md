@@ -30,12 +30,13 @@ You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to shar
 
 ### When and Where
 9-11 February 2026
+Sydney Nanoscience Hub (A31)
 The University of Sydney, NSW 2006, Australia
 
-
+![Locations:]/assets/images/Map.png)
 
 ### Abstract Submission:
-Please submit your one-page abstract or any enquiries to [abstract@acpaaf.org](mailto:abstract@acpaaf.org) 
+Please submit your one-page abstract or any enquiries to [abstract@acpaaf.org](mailto:abstract@acpaaf.org) before the deadline of 20 Jan 2026.
 
 Updates will be available on our conference website: [acpaaf.org](https://acpaaf.org)
 
@@ -52,8 +53,12 @@ Online payment can be made [here](https://pay.sydney.edu.au/ACPAAF-2026).
 
 ### Accommondation
 
+1. Adina Apartment Hotel Sydney Chippendale
+2. Rydges Camperdown
+
 ### Conference Program
 
+TBA
 
 ### Local Organising Committee
 - A/Prof Yixiang Gan
