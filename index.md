@@ -33,7 +33,7 @@ You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to shar
 Sydney Nanoscience Hub (A31)
 The University of Sydney, NSW 2006, Australia
 
-![Locations:]/assets/images/Map.png)
+![Locations:](/assets/images/Map.png)
 
 ### Abstract Submission:
 Please submit your one-page abstract or any enquiries to [abstract@acpaaf.org](mailto:abstract@acpaaf.org) before the deadline of 20 Jan 2026.
