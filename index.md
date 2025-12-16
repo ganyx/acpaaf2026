@@ -30,7 +30,9 @@ You are invited to join ACPAAF2026 (9-11 February 2026, Sydney), a forum to shar
 
 ### When and Where
 9-11 February 2026
-Sydney Nanoscience Hub (A31)
+
+Sydney Nanoscience Hub (A31) Seminar Room 4001
+
 The University of Sydney, NSW 2006, Australia
 
 ![Locations:](/assets/images/Map.png)
