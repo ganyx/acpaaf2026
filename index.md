@@ -58,10 +58,6 @@ Online payment can be made [here](https://pay.sydney.edu.au/ACPAAF-2026).
 1. Adina Apartment Hotel Sydney Chippendale
 2. Rydges Camperdown
 
-### Conference Program
-
-TBA
-
 ### Local Organising Committee
 - A/Prof Yixiang Gan
 - Dr Michael Heisel
