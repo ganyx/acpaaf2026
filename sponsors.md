@@ -20,14 +20,15 @@ ACPAAF Organising Committee
 
 ## Partner Sponsor Opportunities:
 
-Type and Entitlements | Platinum $2,000 | Gold $1,500 | Silve $1,000 |
-
+| ------------- | ------------- | ------------- | ------------- |
+| Type and Entitlements | Platinum $2,000 | Gold $1,500 | Silve $1,000 |
 | ------------- | ------------- | ------------- | ------------- |
 | Organisational logo displayed in printed and digital conference materials, including conference booklets, conference website, conference email signature, venue signage, and marketing materials. | ✅ | ✅ | ✅ |
 | Opportunity to provide marketing materials in delegate registration packages. | ✅ | ✅ | ✅ |
 | Opportunity to provide a pull-up banner positioned on session room stage (to be provided by the sponsor) | ✅ | ✅ |  |
 | One (1) Trestle Table Display in prominent location in the exhibition area. | ✅ | ✅ |  |
 | Sponsor logo to feature on the attendee satchel bag | ✅ |  |  |
+| ------------- | ------------- | ------------- | ------------- |
 
 If you are interested to sponsor the event, please send your email to [abstract@acpaaf.org](mailto:abstract@acpaaf.org).
 
