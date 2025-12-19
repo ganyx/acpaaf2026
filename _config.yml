@@ -125,8 +125,8 @@ navigation_header:
   url: /
 - title: Program
   url: /program/
-#- title: News
-#  url: /blog/
+- title: Sponsor
+  url: /sponsor/
 #- title: Categories
 #  url: /categories/
 #- title: Search
