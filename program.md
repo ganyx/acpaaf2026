@@ -7,12 +7,11 @@ feature_image: "/assets/images/frontpage_head.png"
 # excerpt: "ACPAAF2026 Information"
 ---
 
+The conference program can be downloaded via [PDF](asseets/program/ACPAAF2026_FinalProgram.pdf)
+
 ## Schedule
 ![](assets/images/Schedule.png)
 
-## Confernece Program
-
-The conference program can be downloaded via [PDF](asseets/program/ACPAAF2026_FinalProgram.pdf)
 
 ![](assets/images/UniSydney.png)
 
