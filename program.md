@@ -1,5 +1,5 @@
 ---
-title: Confernece Program
+title: Conference Program
 feature_text: |
   # The 2nd Australasian Conference on Particle Approaches and Applications in Fluids (ACPAAF2026)
 
