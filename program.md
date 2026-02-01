@@ -8,10 +8,11 @@ feature_image: "/assets/images/frontpage_head.png"
 ---
 
 ## Schedule
+![](assets/images/Schedule.png)
 
-## Confernece Programe
+## Confernece Program
 
-To be available close to the conference
+The conference program can be downloaded via [PDF](asseets/program/ACPAAF2026_FinalProgram.pdf)
 
 ![](assets/images/UniSydney.png)
 
